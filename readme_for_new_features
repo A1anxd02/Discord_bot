@@ -1,0 +1,4 @@
+To make new features work, you need to extract the csv file called music_taste from the src.
+Then whole original code is going to work with no error.
+This new feature requires users to write any genre they want to listen and get music recommendation aboit it(R&B/Soul,Rock,Pop,Hip-Hop,Electronic,Jazz,Country,Classical)
+To make code work you need to uncomment the "//Music_helper musBot = new Music_helper("music_taste.csv");" and "//musBot" in the MyFirstBot.java class
